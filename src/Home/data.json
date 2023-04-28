@@ -1,0 +1,39 @@
+[
+{
+    "id":1,
+    "menu":"My Tasks",
+    "menu_icon":"",
+    "favorites":"Redwhale Design"
+},
+{
+    "id":2,
+    "menu":"Inbox",
+    "menu_icon":"",
+    "favorites":"Mobile App Mock"
+   
+},
+{
+    "id":3,
+    "menu":"Projects",
+    "menu_icon":"",
+    "favorites":"UI Design Revision"
+},
+{
+    "id":4,
+    "menu":"Standups",
+    "menu_icon":""
+   
+},
+{
+    "id":5,
+    "menu":"Meetings",
+    "menu_icon":""
+
+},
+{
+    "id":6,
+    "menu":"Seetings",
+    "menu_icon":""
+   
+}
+]
